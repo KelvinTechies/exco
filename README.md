@@ -5,7 +5,6 @@ My Laravel application is a web-based platform that allows users to manage their
 ### Prerequisites
 - PHP (version 8.2.4)
 - Composer (version 2.6.5)
-- ...
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/KelvinTechies/supreme_wallet_transfer_task.git`
